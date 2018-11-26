@@ -11,11 +11,11 @@ port: 8090 <br />
 
 ### Documentation
 swagger : http://localhost:8090/swagger-ui.html <br />
-Screenshot <br />
-![alt text](https://github.com/ancientBig/app_Hystrix-client/blob/master/swagger-screenshots.PNG)
+Screenshot :computer: <br />
+![swagger screen](https://github.com/ancientBig/app_Hystrix-client/blob/master/swagger-screenshots.PNG)
 
 ## author 
-&#x1F4D7; <i>Morena Xaba</i> <br />
+:black_nib: <i>Morena Xaba</i> <br />
 | &nbsp;&nbsp; [email](mailto:alfreat@gmail.com)
 
 
