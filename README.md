@@ -12,7 +12,7 @@ port: 8090 <br />
 ### Documentation
 swagger : http://localhost:8090/swagger-ui.html <br />
 Screenshot <br />
-![alt text](https://github.com/ancientBig/app_Hystrix-client/swaggerScreenshots.PNG)
+![alt text](https://github.com/ancientBig/app_Hystrix-client/swagger screenshots.PNG)
 
 ## author 
 &#x1F4D7; <i>Morena Xaba</i> <br />
