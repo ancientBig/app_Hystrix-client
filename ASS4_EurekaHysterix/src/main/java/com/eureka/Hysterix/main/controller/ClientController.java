@@ -24,6 +24,8 @@ import org.springframework.web.client.RestTemplate;
 import com.eureka.Hysterix.main.Proxy.ClientProxy;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
+import io.swagger.annotations.ApiOperation;
+
 @RestController
 public class ClientController {
 	
@@ -33,6 +35,7 @@ public class ClientController {
 	@Autowired
 	private ClientProxy funcProxy;
 	
+	 @ApiOperation("get the employee record from service.")
 	//get the employee data
 	@RequestMapping(value = "/getdata", method= RequestMethod.GET,produces=MediaType.APPLICATION_JSON_VALUE)
      public Object getEmployee() throws RestClientException, IOException {
